@@ -7,13 +7,13 @@ function App() {
   return (
     <>
 
-      <h1>Vite + React Ryan</h1>
+      <h1>Brian React App</h1>
       <div className="card">
         <button onClick={() => setCount((count) => count + 1)}>
           count is {count}
         </button>
         <p>
-         Ryan says, &quot;Hello there!&quot;
+         Brian says, &quot;Hi!&quot;
         </p>
       </div>
     </>
